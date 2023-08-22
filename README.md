@@ -1,5 +1,11 @@
+# About Me
+
 Im a freshman computer science engineering student on UPTP - https://uptp.edu.py/
+
+
 I wrote code before in Java, C++ and currently and more frequently on Python
+
+
 Im looking forward to learn more and do interesting projects to upload in here
 
 <!---
