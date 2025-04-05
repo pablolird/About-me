@@ -1,6 +1,6 @@
 # About Me
 
-Junior Computer Science Engineering student at [UPTP](uptp.edu.py)
+Junior Computer Science Engineering student at [UPTP](https://uptp.edu.py)
 
 Languages:
   - C/C++
