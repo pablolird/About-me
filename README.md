@@ -1,12 +1,14 @@
 # About Me
 
-Im a sophomore computer science engineering student on UPTP - https://uptp.edu.py/
+Junior Computer Science Engineering student at UPTP - uptp.edu.py
 
+Languages:
+  - C/C++
+  - Python
+  - Java
 
-I wrote code before in Java, C++ and currently and more frequently on Python
-
-
-Im looking forward to learn more and do interesting projects to upload in here
+Projects:
+  - Game Development in C++ using SFML and ECS
 
 <!---
 cxn999/cxn999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
