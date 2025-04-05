@@ -9,8 +9,8 @@ Languages:
 
 Projects:
   - Game Development in C++ using SFML and ECS
-    - https://github.com/pablolird/Skylimit
-    - https://github.com/pablolird/Tower-of-the-Forest
+    - [Skylimit](https://github.com/pablolird/Skylimit)
+    - [Tower of the Forest](https://github.com/pablolird/Tower-of-the-Forest)
 
 <!---
 cxn999/cxn999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
